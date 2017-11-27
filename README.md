@@ -15,8 +15,8 @@ Además, dado que Laboratoria tiene muchas generaciones, regularmente 2 generaci
 
 ### Sketch
 
-![recursos](assets/breather/1.jpg)
+![recursos](assets/images/1.jpg)
 
-![recursos](assets/breather/2.jpg)
+![recursos](assets/images/2.jpg)
 
 
